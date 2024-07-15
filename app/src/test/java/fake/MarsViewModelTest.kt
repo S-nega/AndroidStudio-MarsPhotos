@@ -1,0 +1,4 @@
+package fake
+
+class MarsViewModelTest {
+}

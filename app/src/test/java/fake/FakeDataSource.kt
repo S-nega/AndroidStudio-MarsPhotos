@@ -1,0 +1,4 @@
+package fake
+
+object FakeDataSource {
+}

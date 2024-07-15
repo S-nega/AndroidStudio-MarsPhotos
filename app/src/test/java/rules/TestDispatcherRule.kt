@@ -1,0 +1,4 @@
+package rules
+
+class TestDispatcherRule {
+}
